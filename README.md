@@ -5,7 +5,9 @@ github에 공개된 프로젝트를 통해서 autoload하는 방법
 [composer-packagist-tutorial-test](https://github.com/richellin/composer-packagist-tutorial-test)
 
 ### Use
-`php
+`
+composer install
+
 php index.php
 `
 

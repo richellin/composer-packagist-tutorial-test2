@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {   
+      "type": "vcs",
+      "url": "https://github.com/richellin/composer-packagist-tutorial-test"
+    }   
+  ],  
+  "require": {
+    "richellin/composer-packagist-tutorial": "dev-master"
+  }
+}
